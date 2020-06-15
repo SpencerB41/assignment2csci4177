@@ -10,14 +10,18 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+	"semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.70.0",
+	"gulp-install": "^1.1.0",
+    "history": "^4.6.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject",
-	"start": "node server.js"
+    "postinstall": "npm run build",
+	"test": "react-scripts test --env=jsdom"
   },
   "eslintConfig": {
     "extends": "react-app"
