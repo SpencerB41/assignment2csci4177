@@ -8,8 +8,7 @@ NOTE: As I'm sure you already know I had trouble deploying my application in a w
 
 Introduction: 
 	
-	This assignment contains my rough ideas for the design layout of some pages that will created in our group project. This project was created using the React framework and the Ant Design API to accompany it. The pages created here is the landing page, login page, registration
-process pages, and the schedule page. 
+This assignment contains my rough ideas for the design layout of some pages that will created in our group project. This project was created using the React framework and the Ant Design API to accompany it. The pages created here is the landing page, login page, registration process pages, and the schedule page. 
 
 * Date Created: 14 06 2020
 * Last Modification Date: 15 06 2020
