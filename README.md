@@ -26,18 +26,17 @@ This assignment contains my rough ideas for the design layout of some pages that
 
 A2.1
 
-	After meeting with my group (group 14) we decided to create the landing page, login page, registration page(s), and the schedule page.
+After meeting with my group (group 14) we decided to create the landing page, login page, registration page(s), and the schedule page.
 
 A2.2
 
-	In our meeting we also decided to continue using ReactJS as our framework and Ant Design API to accompany it.
+In our meeting we also decided to continue using ReactJS as our framework and Ant Design API to accompany it.
 
 A2.8 
 
-	The main color scheme accross all pages is a dark grey color. I used this to create a modern feel with a dark theme. Due to this background color I used white text across all of the
-pages. I also took inspiration from the real Dalhousie Dal Online page. I used the idea of having a picture on the background as well. Except I used a picture of Dalhousie University. I did this because I felt it would help new students become familiar with the school before getting there. 
+The main color scheme accross all pages is a dark grey color. I used this to create a modern feel with a dark theme. Due to this background color I used white text across all of the pages. I also took inspiration from the real Dalhousie Dal Online page. I used the idea of having a picture on the background as well. Except I used a picture of Dalhousie University. I did this because I felt it would help new students become familiar with the school before getting there. 
 
-	On my landing page I made use of symbols to add interest and draw the viewers eye. The approach I took to the landing page was trying to get the student to know about the new features. I was trying to get the students on my side, as if they were truly switching systems.
+On my landing page I made use of symbols to add interest and draw the viewers eye. The approach I took to the landing page was trying to get the student to know about the new features. I was trying to get the students on my side, as if they were truly switching systems.
 Therefore, I advertised on the landing page the benefits and features. To draw their attention to these new benefits/features I made use of graphics and bolded text.
 
-	For the registration pages I based the required information based off of the true Dal Online system. I did this because I was not sure what pieces of information would be needed to get different login credentials. The most clear compass was to copy what the true system uses with hopes of being able to implement it in the full app in a similar fashion. 
+For the registration pages I based the required information based off of the true Dal Online system. I did this because I was not sure what pieces of information would be needed to get different login credentials. The most clear compass was to copy what the true system uses with hopes of being able to implement it in the full app in a similar fashion. 
