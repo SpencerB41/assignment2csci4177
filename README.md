@@ -1,68 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Assignment 2
 
-## Available Scripts
+Links to Assignment:
+https://csci4177assignment2.herokuapp.com/
+https://github.com/SpencerB41/assignment2csci4177
 
-In the project directory, you can run:
+NOTE: As I'm sure you already know I had trouble deploying my application in a way that reflected how it looked locally on my machine. I understand this makes it impossible to mark my full assignment. If at all possible could I send a screen recording of how the application functions locally and then you can study my code in GitHub. Thank you for the consideration.
 
-### `yarn start`
+Introduction: 
+	
+	This assignment contains my rough ideas for the design layout of some pages that will created in our group project. This project was created using the React framework and the Ant Design API to accompany it. The pages created here is the landing page, login page, registration
+process pages, and the schedule page. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Date Created: 14 06 2020
+* Last Modification Date: 15 06 2020
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Authors
 
-### `yarn test`
+* Spencer Bouchard (Spencer.Bouchard97@gmail.com)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `yarn build`
+* [React](https://reactjs.org/) - The web framework used
+* [Ant Design](https://ant.design/) - The API used
+ 
+## Assignment Acknowledgments
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A2.1
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+	After meeting with my group (group 14) we decided to create the landing page, login page, registration page(s), and the schedule page.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A2.2
 
-### `yarn eject`
+	In our meeting we also decided to continue using ReactJS as our framework and Ant Design API to accompany it.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+A2.8 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+	The main color scheme accross all pages is a dark grey color. I used this to create a modern feel with a dark theme. Due to this background color I used white text across all of the
+pages. I also took inspiration from the real Dalhousie Dal Online page. I used the idea of having a picture on the background as well. Except I used a picture of Dalhousie University. I did this because I felt it would help new students become familiar with the school before getting there. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+	On my landing page I made use of symbols to add interest and draw the viewers eye. The approach I took to the landing page was trying to get the student to know about the new features. I was trying to get the students on my side, as if they were truly switching systems.
+Therefore, I advertised on the landing page the benefits and features. To draw their attention to these new benefits/features I made use of graphics and bolded text.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+	For the registration pages I based the required information based off of the true Dal Online system. I did this because I was not sure what pieces of information would be needed to get different login credentials. The most clear compass was to copy what the true system uses with hopes of being able to implement it in the full app in a similar fashion. 
